@@ -94,3 +94,8 @@ title: "البحث عن العالم الأخر"
 فلم تكونا تنظران إلى عدسة الكاميرا،  
 بل كانتا تبحثان عن عالمٍ آخر  
 لا وجود له.
+<div class="story-end">
+  <img src="/assets/img/pic.jpg" alt="The phone left behind">
+</div>
+
+
