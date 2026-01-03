@@ -94,6 +94,10 @@ title: "البحث عن العالم الأخر"
 فلم تكونا تنظران إلى عدسة الكاميرا،  
 بل كانتا تبحثان عن عالمٍ آخر  
 لا وجود له.
+
+
+*Disclaimer: The image accompanying this story was created using an AI-assisted tool.  
+All written content is original and authored by the writer.*
 <div class="story-end">
   <img src="/assets/img/pic.jpg" alt="The phone left behind">
 </div>
