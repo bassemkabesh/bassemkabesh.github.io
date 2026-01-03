@@ -1,0 +1,8 @@
+title: bassemkabesh
+description: Writing
+theme: minima
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: dark
