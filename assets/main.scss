@@ -1,8 +1,8 @@
 ---
 ---
-
 @import "minima";
 
+/* Background */
 body {
   background-image:
     linear-gradient(
@@ -15,4 +15,12 @@ body {
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
+}
+
+/* === COPY PROTECTION (CSS) === */
+body {
+  -webkit-user-select: none; /* Chrome, Safari */
+  -moz-user-select: none;    /* Firefox */
+  -ms-user-select: none;     /* IE/Edge */
+  user-select: none;
 }
